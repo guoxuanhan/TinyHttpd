@@ -41,6 +41,8 @@ post.html、post.cgi和test.html需要一定的权限才可以执行
 
 ![](./image/myhttp.png)
 
+![](./image/kuangjia.png)
+
 #参考文章
 
 1. [网络编程模式Reactor详解](https://blog.csdn.net/qq_39751437/article/details/105446909)
