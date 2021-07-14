@@ -8,6 +8,7 @@ post.html、post.cgi和test.html需要一定的权限才可以执行
 2. sudo chmod 600 post.html
 3. sudo chmod 600 test.html
 4. sudo chmod a+x post.cgi
+
 ![](./image/1.png)
 
 ## 项目构建方法Linux
